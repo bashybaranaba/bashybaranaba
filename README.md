@@ -1,7 +1,7 @@
 # Hi there, I'm Baranaba👋
 
 
-##🎓
+## 🎓 Education
 Just finished my bachelor's degree in Informatics and Computer Science at Strathmore University
 
 ## 🔭🔎
