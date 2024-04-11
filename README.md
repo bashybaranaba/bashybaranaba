@@ -1,6 +1,5 @@
 ### Hi there, I'm Baranaba👋
 
-# Key Skills
 
 ## Programming Languages
 
