@@ -4,7 +4,7 @@
 ##  About me
 🎓 Just finished my bachelor's degree in Informatics and Computer Science at Strathmore University
 
-🔭🔎Currently exploring the intersection of Decentralized technologies and Machine Learning
+🔭🔎 Currently exploring the intersection of Decentralized technologies and Machine Learning
 
 ### Programming Languages
 
